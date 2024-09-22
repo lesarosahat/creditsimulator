@@ -1,0 +1,6 @@
+com\lesaro\creditsimulator\model\VehicleType.class
+com\lesaro\creditsimulator\CreditSimulator.class
+com\lesaro\creditsimulator\model\Loan.class
+com\lesaro\creditsimulator\model\VehicleCondition.class
+com\lesaro\creditsimulator\service\LoanCalculatorService.class
+com\lesaro\creditsimulator\util\FileInputReader.class
